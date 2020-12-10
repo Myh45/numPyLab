@@ -61,8 +61,8 @@ print(x)
 print("-" * 20)
 
 # Дії з векторами
-vecA = np.array([1, 0])
-vecB = np.array([2, 2])
+vecA = np.array([4, 3])
+vecB = np.array([3, 2])
 print(vecA + vecB)
 print(vecB - vecA)
 print(vecA * 2)
